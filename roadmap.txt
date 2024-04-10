@@ -18,6 +18,7 @@ Second week:
 - https://youtu.be/rPp46idEvnM?si=DwcvhZS2PojhicSz Hash Table
 - Trying to set up my linkedin profile, start a github and maybe a youtube channel
 - https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
+- https://www.bigocheatsheet.com/ шпаргалка по всем структурам данных Big(o)
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
