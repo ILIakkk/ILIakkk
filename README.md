@@ -13,7 +13,7 @@
 ###
 <h3 align="left">Мои контакты</h3>
 
-[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/linkedin.svg" height="40em" align="center"/>](https://www.linkedin.com/in/ilia-korzun-96b649302/)
+[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/linkedin.svg" height="50em" align="center"/>](https://www.linkedin.com/in/ilia-korzun-96b649302/)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" height="40em" align="center"/>](https://linkedin.com/in/ilia-korzun-96b649302/)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/lol.svg" height="40em" align="center"/>](https://instagram.com/Raymo111)
 
