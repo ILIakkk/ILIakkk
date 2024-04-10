@@ -13,9 +13,9 @@
 ###
 <h3 align="left">Мои контакты</h3>
 
-[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/linkedin.svg" height="40em" align="center"/>](https://www.linkedin.com/in/ilia-korzun-96b649302/)
+[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/linkedin.svg" height="45em" align="center"/>](https://www.linkedin.com/in/ilia-korzun-96b649302/)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" height="40em" align="center"/>](https://t.me/Lolololloloololo)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/lol.svg" height="40em" align="center"/>](https://vk.com/yep232)
-[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/gmail.svg" height="40em" align="center"/>](iliakorzunyeap@gmail.com)
+[<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/gmail.svg" height="45em" align="center"/>](iliakorzunyeap@gmail.com)
 
 
