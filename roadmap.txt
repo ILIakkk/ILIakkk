@@ -7,7 +7,7 @@ https://youtu.be/6Lo8MZUJqJ8?si=YcZfzHB_k-T6qRSS
 
 By the way, вы можете проходить этот курс буквально с нуля, не имея опыта в программировании или математики вузовского уровня (ведь ее тут много не надо, да и обучающих материалов будет нормально), главное- ИНТЕРЕС (буквально ваш двигатель прогресса)
 
-First week:
+First week (Start- 25 march 2024):
 - Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
 - Basics Python https://stepik.org/course/67/syllabus 
 Second week:
