@@ -1,0 +1,25 @@
+Мой ориентировочный план/roadmap- https://youtu.be/MhCHrvfAXlc?si=zx-Bt95UJPHiC6HO. 
+Учусь по такой системе обучения- каждый день по 4 часа и более (не включая время на отдых и перерывы), по методу pomodoro
+
+Если вы не очень хороши в английском, советую установить нейро-перевод всяких видосов на Ютубе, как в Яндексе (только теперь и в других браузерах)-
+https://youtu.be/6Lo8MZUJqJ8?si=YcZfzHB_k-T6qRSS  
+А также расширение перевода страниц (ищите сами)
+
+By the way, вы можете проходить этот курс буквально с нуля, не имея опыта в программировании или математики вузовского уровня (ведь ее тут много не надо, да и обучающих материалов будет нормально), главное- ИНТЕРЕС (буквально ваш двигатель прогресса)
+
+First week:
+- Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
+- Basics Python https://stepik.org/course/67/syllabus 
+Second week:
+- Python: basics and applications https://stepik.org/course/512/syllabus 
+- A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+- https://youtu.be/xP4G6dR4EBQ?si=M9THpT_VuABWbKDg Linked List
+- https://youtu.be/Fu4BzQNN0Qs?si=ywrfz2qG5d_FYVpz Big O
+- https://youtu.be/rPp46idEvnM?si=DwcvhZS2PojhicSz Hash Table
+- Trying to set up my linkedin profile, start a github and maybe a youtube channel
+- https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
+
+Планирую пройти курсы в будущем:
+Pytorch ~трех месячный курс от Zero to Mastery
+TensorFlow курс тоже от Zero to Mastery
+Книгу Designing learning mashine systems (У меня есть эта книга в русском переводе, можете написать в личку, скину :) )
