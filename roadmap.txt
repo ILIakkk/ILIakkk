@@ -12,13 +12,14 @@ First week (Start- 25 march 2024):
 - Basics Python https://stepik.org/course/67/syllabus 
 Second week:
 - Python: basics and applications https://stepik.org/course/512/syllabus 
-- A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+- A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12 (То, что я кину ниже, я смотрел по ходу просмотра этого плейлиста, что бы лучше понять материал)
 - https://youtu.be/xP4G6dR4EBQ?si=M9THpT_VuABWbKDg Linked List
 - https://youtu.be/Fu4BzQNN0Qs?si=ywrfz2qG5d_FYVpz Big O
 - https://youtu.be/rPp46idEvnM?si=DwcvhZS2PojhicSz Hash Table
 - Trying to set up my linkedin profile, start a github and maybe a youtube channel
 - https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
 - https://www.bigocheatsheet.com/ шпаргалка по всем структурам данных Big(o)
+- https://youtu.be/0BUX_PotA4c?si=f02LsmqKI5i4sbBl Как работают деревья? Структуры данных
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
