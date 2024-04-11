@@ -20,7 +20,7 @@ Second week:
 - https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
 - https://www.bigocheatsheet.com/ шпаргалка по всем структурам данных Big(o)
 - https://youtu.be/0BUX_PotA4c?si=f02LsmqKI5i4sbBl Как работают деревья? Структуры данных
-- Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW
+- Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
