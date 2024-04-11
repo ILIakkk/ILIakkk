@@ -10,7 +10,7 @@
 Если кому интересно, то я расписал свой план обучения в roadmap.txt.
 Ищу единомышленников, которым также интересна тема ML и AI, не буду против предложения о работе/стажировке :)</p>
 
-<p align="left">
+<p align="left"> Вот мой roadmap:
   <a href="https://your-roadmap-website.com" target="_blank">
     <img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" alt="Roadmap" height="40">
   </a>
