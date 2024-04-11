@@ -7,7 +7,7 @@
 ###
 
 <p align="left">Всем привет! Я начинающий ML engineer, и мое обучение идет прямо сейчас! Я обычный 10-классник из Москвы, планирую весь год изучать профессию ml инженера, а потом поступить в вуз и на стажировку.
-Если кому интересно, то я расписал свой план обучения в roadmap.txt, также можете глянуть [сдесь](https://your-roadmap-website.com)
+Если кому интересно, то я расписал свой план обучения в roadmap.txt, также можете глянуть в контактах.
 Ищу единомышленников, которым также интересна тема ML и AI, не буду против предложения о работе/стажировке :)</p>
 
 ###
@@ -17,4 +17,5 @@
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" height="40em" align="center"/>](https://t.me/Lolololloloololo)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/lol.svg" height="40em" align="center"/>](https://vk.com/yep232)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/gmail.svg" height="48em" align="center"/>](mailto:iliakorzunyeap@gmail.com)
+[<img src="" height="48em" align="center"/>]()
 
