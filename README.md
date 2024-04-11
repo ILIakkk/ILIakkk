@@ -11,11 +11,13 @@
 Ищу единомышленников, которым также интересна тема ML и AI, не буду против предложения о работе/стажировке :)</p>
 
 <p align="left">
-  Вот мой роадмап
   <a href="https://your-roadmap-website.com" target="_blank">
     <img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/roadmap.png" alt="Roadmap" height="40" align="center">
   </a>
+  <br>
+  Вот мой роадмап
 </p>
+
 
 ###
 <h3 align="left">Мои контакты</h3>
@@ -24,6 +26,5 @@
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" height="40em" align="center"/>](https://t.me/Lolololloloololo)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/lol.svg" height="40em" align="center"/>](https://vk.com/yep232)
 [<img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/gmail.svg" height="48em" align="center"/>](mailto:iliakorzunyeap@gmail.com)
-
 
 
