@@ -7,15 +7,8 @@
 ###
 
 <p align="left">Всем привет! Я начинающий ML engineer, и мое обучение идет прямо сейчас! Я обычный 10-классник из Москвы, планирую весь год изучать профессию ml инженера, а потом поступить в вуз и на стажировку.
-Если кому интересно, то я расписал свой план обучения в roadmap.txt.
+Если кому интересно, то я расписал свой план обучения в roadmap.txt, также можете глянуть [сдесь](https://your-roadmap-website.com)
 Ищу единомышленников, которым также интересна тема ML и AI, не буду против предложения о работе/стажировке :)</p>
-
-<p align="left">
-  Вот мой роадмап
-  <a href="https://your-roadmap-website.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/ILIakkk/ILIakkk/main/socials/telegram.svg" alt="Roadmap" height="40" align="center">
-  </a>
-</p>
 
 ###
 <h3 align="left">Мои контакты</h3>
