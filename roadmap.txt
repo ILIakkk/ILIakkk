@@ -20,7 +20,8 @@ Second week:
 - https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
 - https://www.bigocheatsheet.com/ шпаргалка по всем структурам данных Big(o)
 - https://youtu.be/0BUX_PotA4c?si=f02LsmqKI5i4sbBl Как работают деревья? Структуры данных
-- https://youtu.be/VehB3eglQMQ?si=Elw-pe-pgRqtc-W_ Графы
+- https://youtu.be/VehB3eglQMQ?si=Elw-pe-pgRqtc-W_ Как работают графы
+https://youtu.be/PF7AqefS4MU?si=w2OWj4zUJIqls2S4 Как работают алгоритмы
 - Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 
 Планирую пройти курсы в будущем:
