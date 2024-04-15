@@ -11,6 +11,13 @@ First week (Start- 25 march 2024):
 - Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
 - Basics Python https://stepik.org/course/67/syllabus 
 Second week:
+Начни следить за новостями из сферы ML, советую подписаться на эти каналы-
+https://t.me/seeallochnaya
+https://t.me/tech_priestess
+https://t.me/theworldisnoteasy
+https://t.me/derplearning
+https://t.me/gonzo_ML Сложно.
+Не смотря на то, что вы можете вообще ничего не знать, обязательно читайте статьи, пытайтесь разбираться, интересуйтесь в этом, это важно 
 - Python: basics and applications https://stepik.org/course/512/syllabus 
 - A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12 (То, что я кину ниже, я смотрел по ходу просмотра этого плейлиста, что бы лучше понять материал)
 - https://youtu.be/xP4G6dR4EBQ?si=M9THpT_VuABWbKDg Linked List
