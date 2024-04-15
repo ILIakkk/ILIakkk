@@ -31,6 +31,7 @@ https://t.me/gonzo_ML Сложно.
 - https://youtu.be/PF7AqefS4MU?si=w2OWj4zUJIqls2S4 Как работают сортировки
 - Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 - https://youtu.be/cyIw3NKfdGw?si=xfJpKWr6Kr34emV2 Рекурсия
+- https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
