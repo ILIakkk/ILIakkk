@@ -32,6 +32,7 @@ https://t.me/gonzo_ML Сложно.
 - Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 - https://youtu.be/cyIw3NKfdGw?si=xfJpKWr6Kr34emV2 Рекурсия
 - https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
+- https://stepik.org/course/180256/syllabus Т.к в курсе сверху все обьясняют ну МЕГА поверхностно, начал проходить неплохой курс по Numpy
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
