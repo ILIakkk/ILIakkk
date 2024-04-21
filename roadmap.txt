@@ -7,9 +7,11 @@ https://youtu.be/6Lo8MZUJqJ8?si=YcZfzHB_k-T6qRSS
 
 By the way, вы можете проходить этот курс буквально с нуля, не имея опыта в программировании или математики вузовского уровня (ведь ее тут много не надо, да и обучающих материалов будет нормально), главное- ИНТЕРЕС (буквально ваш двигатель прогресса)
 
+
 First week (Start- 25 march 2024):
 - Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
 - Basics Python https://stepik.org/course/67/syllabus 
+
 Second week:
 Начни следить за новостями из сферы ML, советую подписаться на эти каналы-
 https://t.me/seeallochnaya
@@ -33,6 +35,9 @@ https://t.me/gonzo_ML Сложно.
 - https://youtu.be/cyIw3NKfdGw?si=xfJpKWr6Kr34emV2 Рекурсия
 - https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
 - https://stepik.org/course/180256/syllabus Т.к в курсе сверху все обьясняют ну МЕГА поверхностно, начал проходить неплохой курс по Numpy
+
+Третья неделя!
+- https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне непонятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
