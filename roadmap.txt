@@ -34,11 +34,11 @@ https://t.me/gonzo_ML Сложно.
 - Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 - https://youtu.be/cyIw3NKfdGw?si=xfJpKWr6Kr34emV2 Рекурсия
 - https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
-- https://stepik.org/course/180256/syllabus Т.к в курсе сверху все обьясняют ну МЕГА поверхностно, начал проходить неплохой курс по Numpy
+- https://stepik.org/course/180256/syllabus Хороший курс с классными концепциями обьяснений по numpy
 
 Третья неделя!
-- https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне непонятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
-- https://ods.ai/ https://ods.ai/tracks/open-ml-course Я видимо нашел что то, чей ценности еще не до конца понял (золото?)
+- https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне не понятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
+- https://ods.ai/ https://ods.ai/tracks/open-ml-course Хз что это, но запишу сюда
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
