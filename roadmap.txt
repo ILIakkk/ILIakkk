@@ -20,24 +20,24 @@ https://t.me/theworldisnoteasy
 https://t.me/derplearning
 https://t.me/gonzo_ML Сложно.
 Не смотря на то, что вы можете вообще ничего не знать, обязательно читайте статьи, пытайтесь разбираться, интересуйтесь в этом, это важно 
-- Python: basics and applications https://stepik.org/course/512/syllabus 
-- A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12 (То, что я кину ниже, я смотрел по ходу просмотра этого плейлиста, что бы лучше понять материал)
+@ Python: basics and applications https://stepik.org/course/512/syllabus 
+@ A good playlist for Data Structures and Alghoritms in Python https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12 
 - https://youtu.be/xP4G6dR4EBQ?si=M9THpT_VuABWbKDg Linked List
 - https://youtu.be/Fu4BzQNN0Qs?si=ywrfz2qG5d_FYVpz Big O
 - https://youtu.be/rPp46idEvnM?si=DwcvhZS2PojhicSz Hash Table
-- Trying to set up my linkedin profile, start a github and maybe a youtube channel
+@ Trying to set up my linkedin profile, start a github and maybe a youtube channel
 - https://youtu.be/pm17VwdJ6UI?si=wT8L9qDhz0Lpjsqj How to make beatiful github profile
 - https://www.bigocheatsheet.com/ шпаргалка по всем структурам данных Big(o)
 - https://youtu.be/0BUX_PotA4c?si=f02LsmqKI5i4sbBl Как работают деревья? Структуры данных
 - https://youtu.be/VehB3eglQMQ?si=Elw-pe-pgRqtc-W_ Как работают графы
 - https://youtu.be/PF7AqefS4MU?si=w2OWj4zUJIqls2S4 Как работают сортировки
-- Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
+@ Порция мотивации! https://youtu.be/sVnj832t5SE?si=jP883LxCgV-1w7xH, https://youtu.be/t24-xCxhhww?si=v5QOXmgiWpQOpgAW, https://youtu.be/amXl7FG7J4c?si=HvY3h-S8cSlGB3a_
 - https://youtu.be/cyIw3NKfdGw?si=xfJpKWr6Kr34emV2 Рекурсия
-- https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
-- https://stepik.org/course/180256/syllabus Хороший курс с классными концепциями обьяснений по numpy
+@ https://stepik.org/course/125587/syllabus Начинаю проходить курс машинного обучения "ИИ старт" (готовлюсь к олимпиаде по всероссу по искусственному интеллекту)
+@ https://stepik.org/course/180256/syllabus Хороший курс с классными концепциями обьяснений по numpy
 
 Третья неделя!
-- https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне не понятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
+@ https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне не понятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
 - https://ods.ai/ https://ods.ai/tracks/open-ml-course Хз что это, но запишу сюда
 
 Планирую пройти курсы в будущем:
