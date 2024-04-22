@@ -40,7 +40,8 @@ https://t.me/gonzo_ML Сложно.
 @ https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне не понятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
 - https://numpy.org/doc/1.26/user/absolute_beginners.html Numpy Doc на русском
 - https://ods.ai/ https://ods.ai/tracks/open-ml-course Хз что это, но запишу сюда
-@ https://stepik.org/lesson/8073 Курс по основам статистики
+@ https://stepik.org/course/76/ Курс по основам статистики
+- Разбирая 1.7 модуль из верхнего курса, посоветовали глянуть вот это- https://en.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap/measuring-position/v/z-score-introduction
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
