@@ -43,6 +43,7 @@ https://t.me/gonzo_ML Сложно.
 @ https://ru.khanacademy.org/math/statistics-probability/ Курс по основам статистики и вероятностям (тут решаю иногда задачки)
 @ https://stepik.org/course/76/syllabus Основы статистики (но прохожу в основном этот курс, т.к меня привлекает что тут есть формулы, в отличие от верхнего курса)
 - https://youtu.be/MstzroncW28?si=z_0qho00HC-usFdH Доверительный интервал
+- https://habr.com/ru/companies/stepic/articles/250527/ про p-value
 
 Планирую пройти курсы в будущем:
 Pytorch ~трех месячный курс от Zero to Mastery
