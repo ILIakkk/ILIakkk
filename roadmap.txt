@@ -11,8 +11,9 @@ By the way, вы можете проходить этот курс буквал�
 
 
 First week (Start- 25 march 2024):
-- Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
-- Basics Python https://stepik.org/course/67/syllabus 
+@ Khan Academy course: https://bit.ly/42DUXtW (But I covered topics only (1) Digital Information and (2) The Internet without 3) and 4), because I already had a little programming experience.)
+@ Basics Python https://stepik.org/course/67/syllabus 
+- На начальных этапах программирования советую пользоваться python visualisator, что бы находить ошибки в своих алгоритмах и коде (а потом, советую глянуть как работает pycharm debugger)
 
 Second week:
 Начни следить за новостями из сферы ML, советую подписаться на эти каналы-
@@ -48,13 +49,42 @@ https://t.me/gonzo_ML Сложно.
 - https://youtu.be/MstzroncW28?si=z_0qho00HC-usFdH Доверительный интервал
 - https://habr.com/ru/companies/stepic/articles/250527/ про p-value
 - https://youtu.be/JgRPcWMUKEg?si=_d47tlmPO5s17mSf Т-критерий Стьюдента 
+- https://habr.com/ru/companies/stepic/articles/311354/ О степенях свободы в статистике
+- https://youtu.be/oPM39TFe46k?si=qYAo0njlz-MdWh-Y How to Interpret Quantile Quantile Plot
+- https://youtu.be/AVJmjg4AgFY?si=7ezpJhJy2FqNCUdq QQ Plots
+- https://youtu.be/smJBsZ4YQZw?si=dnwYynzks4nAGi8F Normal Probability Plots Explained
+- https://habr.com/ru/companies/otus/articles/734258/ Дисперсионный анализ. ANOVA
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ Сайт с визуалом графиков
+- https://rpsychologist.com/correlation/ Понимание корреляции
+- модуль 2.5 https://www.youtube.com/watch?v=4w9t4McuAy8 Статистика и плохая наука
+- модуль 3.11 https://www.youtube.com/live/1-ADJNE1WNc?si=uZ2n1A1ZdDH6posI Введение в GLM
 
+Дополнительно: 
+https://habr.com/ru/articles/468295/ 50 оттенков matplotlib — The Master Plots (с полным кодом на Python)
+https://habr.com/ru/articles/557998/ Python, корреляция и регрессия часть 1
+https://habr.com/ru/articles/556000/ Python, исследование данных и выборы часть 1
+https://habr.com/ru/articles/557424/ Погружаемся в статистику вместе с Python. Часть 1. Z-статистика и p-value
+https://habr.com/ru/articles/559062/ Погружаемся в статистику вместе с Python. Часть 2. Распределение Стьюдента
+https://habr.com/ru/articles/562380/ Погружаемся в статистику вместе с Python. Часть 3. Тестов много, принцип один
+
+https://devpractice.ru/files/books/python/Matplotlib.book.pdf Док MatPlotLib (то, что дальше, не обязательно читать, чисто документация)
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+https://mipt-stats.gitlab.io/courses/python/07_scipy_stats.html Про библиотеку scipy.stats
+
+Четвертая неделя!
+pass
+
+
+https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
+https://www.youtube.com/watch?v=xgwvU7S0K-k 
+https://www.youtube.com/watch?v=CRlN-cYFxTk Еще два видоса по этой теме
 
 Какие есть сертификаты? 
 - https://stepik.org/cert/2444492 Основы статистики
 
 Планирую пройти курсы в будущем:
 https://habr.com/ru/amp/publications/708752/ Что нибудь из этой подборки
+https://habr.com/ru/articles/753548/ Или этой
 Основы статистики 2 и 3 часть
 Pytorch ~трех месячный курс от Zero to Mastery
 TensorFlow курс тоже от Zero to Mastery
