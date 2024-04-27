@@ -60,7 +60,8 @@ https://t.me/gonzo_ML Сложно.
 - модуль 3.11 https://www.youtube.com/live/1-ADJNE1WNc?si=uZ2n1A1ZdDH6posI Введение в GLM
 
 Дополнительно: 
-https://habr.com/ru/articles/468295/ 50 оттенков matplotlib — The Master Plots (с полным кодом на Python)
+https://habr.com/ru/articles/468295/ 50 оттенков matplotlib
+https://plotly.com/python/ Крутая библиотека для интерактивных графиков для презентаций или логов
 https://habr.com/ru/articles/557998/ Python, корреляция и регрессия часть 1
 https://habr.com/ru/articles/556000/ Python, исследование данных и выборы часть 1
 https://habr.com/ru/articles/557424/ Погружаемся в статистику вместе с Python. Часть 1. Z-статистика и p-value
