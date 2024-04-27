@@ -54,6 +54,7 @@ https://t.me/gonzo_ML Сложно.
 - https://stepik.org/cert/2444492 Основы статистики
 
 Планирую пройти курсы в будущем:
+https://habr.com/ru/amp/publications/708752/ Что нибудь из этой подборки
 Основы статистики 2 и 3 часть
 Pytorch ~трех месячный курс от Zero to Mastery
 TensorFlow курс тоже от Zero to Mastery
