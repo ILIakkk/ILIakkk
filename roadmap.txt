@@ -40,13 +40,19 @@ https://t.me/gonzo_ML Сложно.
 @ https://chat.lmsys.org/ Кстати говоря, мне очень помогает в обьяснениях нейронки, например если мне не понятно, какие оси надо выделять в numpy задачке, то я могу спросить у ИИ (например LLM 3 от meta/ claude 3), и он доступно и легко объяснит (считай личный учитель)
 - https://numpy.org/doc/1.26/user/absolute_beginners.html Numpy Doc на русском
 - https://ods.ai/ https://ods.ai/tracks/open-ml-course Хз что это, но запишу сюда
-@ https://ru.khanacademy.org/math/statistics-probability/ Курс по основам статистики и вероятностям (тут решаю иногда задачки)
+@ https://ru.khanacademy.org/math/statistics-probability/ Курс по основам статистики и вероятностям (Тут есть прикольные задачки)
 @ https://stepik.org/course/76/syllabus Основы статистики (но прохожу в основном этот курс, т.к меня привлекает что тут есть формулы, в отличие от верхнего курса)
+- конспект одного чувачка: https://nbviewer.org/github/KlukvaMors/basic_stat/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.ipynb
 - https://youtu.be/MstzroncW28?si=z_0qho00HC-usFdH Доверительный интервал
 - https://habr.com/ru/companies/stepic/articles/250527/ про p-value
 - https://youtu.be/JgRPcWMUKEg?si=_d47tlmPO5s17mSf Т-критерий Стьюдента 
 
+
+Какие есть сертификаты? 
+- https://stepik.org/cert/2444492 Основы статистики
+
 Планирую пройти курсы в будущем:
+Основы статистики 2 и 3 часть
 Pytorch ~трех месячный курс от Zero to Mastery
 TensorFlow курс тоже от Zero to Mastery
 Книгу Designing learning mashine systems (У меня есть эта книга в русском переводе, можете написать в личку, скину :) )
