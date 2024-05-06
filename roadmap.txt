@@ -76,6 +76,7 @@ Ps. Прежде чем читать статьи ниже, пройдите м�
 - https://habr.com/ru/articles/354772/
 - https://habr.com/ru/articles/413853/
 - https://habr.com/ru/articles/714988/
+- https://neurohive.io/ru/osnovy-data-science/gradient-descent/
 
 https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
 https://www.youtube.com/watch?v=xgwvU7S0K-k 
