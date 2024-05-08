@@ -78,6 +78,7 @@ https://habr.com/ru/articles/562380/ Погружаемся в статисти�
 - https://youtu.be/ruVK07YF-RU?si=e4PTY1YCoq5M9RQJ
 - https://youtu.be/8sp5aqyH6Oc?si=LPOZr7vFVG9kJijM
 - https://youtu.be/3EbmowRu-HA?si=Arp5cgjxyyGCZZmo
+- https://youtu.be/G5MkTvMZLCw?si=jTLftg4fs1ezvx7a Что такое функция потерь
 
 https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
 https://www.youtube.com/watch?v=xgwvU7S0K-k 
