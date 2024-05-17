@@ -87,6 +87,7 @@ https://habr.com/ru/articles/562380/ Погружаемся в статисти�
 - https://youtu.be/xRuPuoQtHN0?si=PESQYrz4pEvMO8o5 Наивный байес
 - https://youtu.be/8FImFu_qldU?si=Ng4pv4XT516YsBJE Метод максимального правдоподобия
 - https://youtu.be/Snd88gZwIUc?si=juo5_h75Om5uINkA Метод опорных векторов
+- https://youtu.be/wciU07gPqUE?si=_dBkEKzDbtWL9GqU Хочешь понять сингулярное разложение? Посмотри первые 4 видео канала
 
 https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
 https://www.youtube.com/watch?v=xgwvU7S0K-k 
