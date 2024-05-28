@@ -106,6 +106,11 @@ https://habr.com/ru/articles/562380/ Погружаемся в статисти�
 - https://youtu.be/NokwvS3eMk4?si=hInTDqSYnzosniMJ Введение в Pytorch
 @ https://www.youtube.com/@ittensive Прохожу офигенный курс по нейросетям, во вкладке "плейлисты" канала можно найти последовательные плейлисты для изучения БАЗЫ, я начал с плейлиста №5
 
+Девятая неделя:
+- прохожу курс №5 дальше
+- https://youtu.be/YCzL96nL7j0?si=tFTCwNqQmXG_Pgyc RNN
+- https://youtu.be/AsNTP8Kwu80?si=_MqlNpASBb4WzdA5 LSTM Clearly Explained!
+
 https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
 https://www.youtube.com/watch?v=xgwvU7S0K-k 
 https://www.youtube.com/watch?v=CRlN-cYFxTk Еще два видоса по этой теме
