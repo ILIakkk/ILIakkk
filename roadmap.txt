@@ -114,6 +114,7 @@ https://habr.com/ru/articles/562380/ Погружаемся в статисти�
 - https://youtu.be/PSs6nxngL6k?si=yqHkO1kPxPuqCaS7 Attention
 - https://youtu.be/TBEwpgyoo20?si=G3iJOncn0ZVhp1P7 Transformer encoder
 - https://youtu.be/tsee8mosj5U?si=vHRz0G-9Uym6YCta Transformer decoder
+- https://youtu.be/iOrNbK2T92M?si=GggsXwdcM_35n9M9 Krutoe video Транчформеры в деталях
 
 
 https://www.youtube.com/watch?v=zzvqVs5X0xM&t=1815s Не относящееся к roadmap, но вот вам крутое интервью с создателем технологии NeRF (AI x VR)
